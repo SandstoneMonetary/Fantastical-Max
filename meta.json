@@ -1,0 +1,23 @@
+{
+  "repo": "fantastical-max",
+  "product": "Fantastical Max",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "system-tools",
+  "topics": [
+    "fantastical",
+    "fantastical-windows",
+    "system-tools-desktop",
+    "how-to-install-fantastical",
+    "fantastical-desktop-package",
+    "fantastical-workspace",
+    "fantastical-pro-tools",
+    "fantastical-suite",
+    "zentool-fantastical",
+    "fantastical-tool-9"
+  ],
+  "site": "zentool.art"
+}
